@@ -1,0 +1,24 @@
+h1 {
+    background: red;
+}
+
+.p1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.p2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.p3 {
+    font-weight: 100;
+    font-size: 24pt;
+    font-family: 'Courier New';
+}
